@@ -409,7 +409,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "RadioCtrl-Override.dsn",
-      "step": "",
+      "step": "RadioCtrl-Override.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
