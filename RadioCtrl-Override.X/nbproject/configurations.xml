@@ -11,6 +11,9 @@
         <itemPath>mcc_generated_files/device_config.h</itemPath>
         <itemPath>mcc_generated_files/mcc.h</itemPath>
       </logicalFolder>
+      <itemPath>HM10.h</itemPath>
+      <itemPath>RadioCtrl.h</itemPath>
+      <itemPath>RadioCtrlCommand.h</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"
@@ -27,6 +30,9 @@
         <itemPath>mcc_generated_files/pin_manager.c</itemPath>
       </logicalFolder>
       <itemPath>main.c</itemPath>
+      <itemPath>HM10.c</itemPath>
+      <itemPath>RadioCtrlCommand.c</itemPath>
+      <itemPath>RadioCtrl.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
